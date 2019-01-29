@@ -1,0 +1,42 @@
+
+
+
+header h1{
+color: aliceblue;
+background-color: brown;
+text-align: center;
+font-size: 40px;}
+
+hr{
+margin-left: 230px;
+margin-right: 230px;
+padding: 10px;
+background-color: black;
+}
+
+main div.text{
+display: inline-block;
+text-align: center;
+background-color: coral;
+font-size: 15px;
+width: 250px;
+padding-left: 30px;
+padding-right: 30px;
+border-right: 80px;
+margin-bottom: 100px;
+margin-left: 240px;
+} 
+
+main div.image{
+    float: right;
+    margin-bottom: 60px;
+    overflow: auto;
+}
+
+img{
+height: 100px;
+width: 100px;}
+
+footer{background-color: brown;
+padding: 60px;
+border: 20px;}
