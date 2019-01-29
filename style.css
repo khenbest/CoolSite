@@ -6,8 +6,8 @@ text-align: center;
 font-size: 40px;}
 
 hr{
-margin-left: 215px;
-margin-right: 200px;
+margin-left: 219px;
+margin-right: 233px;
 padding: 10px;
 background-color: black;
 }
@@ -23,29 +23,41 @@ padding-left: 30px;
 padding-right: 30px;
 border-right: 80px;
 margin-bottom: 100px;
-margin-left: 240px;
-} 
+margin-left: 220px;
+}
+main div.text2{
+    font-family: 'Major Mono Display', monospace;
+    display: inline-block;
+    text-align: center;
+    background-color: coral;
+    font-size: 15px;
+    width: 250px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-right: 80px;
+    margin-bottom: 100px;
+    }
 
 main div.image{
-    float: right;
-    margin-bottom: 60px;
     text-align: center;
-
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 4px;
 }
+
 
 p{
     text-align: left;
 }
 #gray-box{
     color: gray;
-    margin-right: 10px;
-    text-align: end;
-    width: 100px;
+    text-align: left;
+
 }
 
-img{
-height: 100px;
-width: 100px;}
+
 
 footer{background-color: brown;
 padding: 60px;
