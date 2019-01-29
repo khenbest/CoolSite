@@ -1,5 +1,7 @@
 
-
+p{
+    text-align: left;
+}
 
 header h1{
 color: aliceblue;
@@ -8,8 +10,8 @@ text-align: center;
 font-size: 40px;}
 
 hr{
-margin-left: 230px;
-margin-right: 230px;
+margin-left: 235px;
+margin-right: 220px;
 padding: 10px;
 background-color: black;
 }
