@@ -1,8 +1,4 @@
 
-p{
-    text-align: left;
-}
-
 header h1{
 color: aliceblue;
 background-color: brown;
@@ -10,8 +6,8 @@ text-align: center;
 font-size: 40px;}
 
 hr{
-margin-left: 235px;
-margin-right: 220px;
+margin-left: 215px;
+margin-right: 200px;
 padding: 10px;
 background-color: black;
 }
@@ -32,7 +28,19 @@ margin-left: 240px;
 main div.image{
     float: right;
     margin-bottom: 60px;
-    overflow: auto;
+    text-align: center;
+    display: inline-block;
+
+}
+
+p{
+    text-align: left;
+}
+#gray-box{
+    color: gray;
+    margin-right: 10px;
+    text-align: end;
+    width: 100px;
 }
 
 img{
